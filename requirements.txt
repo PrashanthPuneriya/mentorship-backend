@@ -13,7 +13,6 @@ botocore==1.10.48
 cached-property==1.4.3
 cement==2.8.2
 certifi==2018.4.16
-cffi==1.11.5
 chardet==3.0.4
 click==6.7
 colorama==0.3.9
@@ -60,7 +59,7 @@ PyYAML==3.13
 regex==2020.2.20
 requests==2.18.4
 semantic-version==2.5.0
-six==1.11.0
+six==1.14.0
 SQLAlchemy==1.2.7
 tabulate==0.7.5
 termcolor==1.1.0
@@ -71,4 +70,4 @@ tzlocal==1.5.1
 urllib3==1.22
 wcwidth==0.1.7
 websocket-client==0.48.0
-Werkzeug==0.15.3
+Werkzeug==0.16.1
